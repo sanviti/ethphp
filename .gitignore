@@ -1,3 +1,7 @@
+# common dirs
+/logs/
+
+# for Yii
 assets/*
 !assets/.gitignore
 protected/runtime/*
