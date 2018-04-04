@@ -1,4 +1,4 @@
-# ethphp
+## ethphp
 A PHP lib for access to Ethereum Geth API via Json-RPC.
 
 ## Usage
