@@ -8,7 +8,7 @@ A PHP lib for access to Ethereum Geth API via Json-RPC.
     // create a new eth object
     $ethereum = new Ethereum('127.0.0.1', 8545);
 
-    // print test accounts hereby
+    // print test accounts here
     echo json_encode($ethereum->eth_accounts());
         
 See `test/testgeth.php` for a complete example. 
