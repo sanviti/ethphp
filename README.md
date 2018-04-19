@@ -15,3 +15,6 @@ See `test/testgeth.php` for a complete example.
 
 ## Function documentation
 For documentation on Json-RPC, see the [Ethereum Wiki Json-RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC#json-rpc-methods)
+
+## Warning: custom contract problem
+Since the Json-RPC need server side procedure, with custom contract published, there is problem to call the custom api.
